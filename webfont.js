@@ -1,1 +1,1 @@
-<script>alert(window.origin)</script>
+<img src="http://testingballsack.requestcatcher.com/">
